@@ -11,4 +11,10 @@ Aplicación real de Gifs donde abordamos los siguientes temas de Angular.
 8. LocalStorage
 9. Peticiones HTTP
 10. Animaciones mediante css
+11. @Inputs
+12. @Outputs
+13. Custom components
+14. Validaciones
+15. Importaciones de modulos personalizados
+16. Animaciones de CSS
 
