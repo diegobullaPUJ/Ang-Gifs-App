@@ -1,5 +1,14 @@
+### GifsApp
 
-Aplicación real de Gifs donde abordamos los siguientes temas de Angular.
+## Ejecutar proyecto localmente
+
+1. Clonar proyecto.
+2. Ejecutar ```npm install``` para descargar las dependencias.
+3. Ejecutar la app ```ng serve -o```.
+
+## Descripción
+
+Aplicación de angular ```Biblioteca y buscador de gifs``` donde abordamos los siguientes temas de Angular.
 
 1. Modularización de la aplicación
 2. Estructura de la aplicación de media a gran escala
